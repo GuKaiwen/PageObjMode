@@ -1,0 +1,12 @@
+2019-04-26 23:25:28,081-BrowserEngine-INFO-获取项目根目录
+2019-04-26 23:25:28,109-BrowserEngine-INFO-
+2019-04-26 23:25:30,065-BrowserEngine-INFO-open browser with this URL
+2019-04-26 23:25:31,230-BasePage-INFO-Had find the element<selenium.webdriver.remote.webelement.WebElement (session="2e50d18fd64851ae5fa436077873206e", element="0.5692873909642742-2")>
+2019-04-26 23:25:31,332-BasePage-INFO-Click text in input box before typing.
+2019-04-26 23:25:32,685-BasePage-INFO-Current page title is selenium_百度搜索
+2019-04-26 23:25:34,016-BrowserEngine-INFO-
+2019-04-26 23:25:35,525-BrowserEngine-INFO-open browser with this URL
+2019-04-26 23:25:36,683-BasePage-INFO-Had find the element<selenium.webdriver.remote.webelement.WebElement (session="53650ae45d2d2f93ac03cb964510d1f0", element="0.6498249348282805-2")>
+2019-04-26 23:25:36,765-BasePage-INFO-Click text in input box before typing.
+2019-04-26 23:25:42,039-BrowserEngine-INFO-
+2019-04-26 23:25:43,502-BrowserEngine-INFO-open browser with this URL
